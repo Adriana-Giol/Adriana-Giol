@@ -1,22 +1,22 @@
 ### Hi there - How To Reach Me 👋
 
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
-  <img src = "Logo/linkedin.png" width = "auto" height="40px"/>
+  <img src = "Logo/linked.png" width = "auto" height="40px"/>
 </a>
 
 
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true" align = "center"/>
 </a>
                     
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=dark&layout=compact&card_width=270" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=jolly&layout=compact&card_width=270" align = "center"/>
 </a>
 
 # University
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=CTS_1088_laborator&theme=dark&hide_border" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=CTS_1088_laborator&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
