@@ -1,7 +1,7 @@
 ### Hi there - How To Reach Me 👋
 
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
-  <img src = "Logo/linkedin1.png" width = "auto" height="40px"/>
+  <img src = "Logo/linkedin2.png" width = "auto" height="40px"/>
 </a>
 
 
