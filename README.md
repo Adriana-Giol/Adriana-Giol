@@ -6,7 +6,7 @@
 
 #Stats
 
-[![Adriana-Giol's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriana-giol)](https://github.com/adriana-giol/github-readme-stats)
+[![Adriana-Giol's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriana-giol]https://github.com/adriana-giol/github-readme-stats&count_private=true)
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
