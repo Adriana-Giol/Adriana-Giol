@@ -1,10 +1,9 @@
-### Hi there - How To Reach Me 👋
+  <img src = "Logo/avatar.png" width = "auto" height="50px"" align = "left"/>### Hi there  👋
 
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
   <img src = "Logo/linkedin2.png" width = "auto" height="40px"/>
 </a>
 
-![My profile visitors](https://visitor-badge.laobi.icu/badge?page_id=Adriana-Giol.Adriana-Giol)
 
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
