@@ -17,6 +17,28 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center" />
 </a>
 
+# Technologies used:
+<a href = "https://visualstudio.microsoft.com/">
+    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" />
+</a>
+<a href = "https://dotnet.microsoft.com/download/dotnet-framework">
+    <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" />
+</a>
+<a href = "https://developer.android.com/studio">
+    <img src = "Logo/android.png" alt="Android Studio" width = "auto" height="40px" align="center" />
+</a>
+<a href = "https://www.eclipse.org/downloads/">
+    <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" />
+</a>
+<a href = "https://www.adobe.com/products/photoshop.html/">
+    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center" />
+</a>
+<a href = "https://www.adobe.com/products/illustrator.html/">
+    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center" />
+</a>
+
+
+     
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true&card_width=50px" />
