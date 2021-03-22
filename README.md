@@ -25,6 +25,13 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
+# Learning
+
+# Personal Projects
+</a>
+<a href = "https://github.com/Adriana-Giol/Pachete-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
+</a>
 
 # University
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
@@ -32,10 +39,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 </a>
 <a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
-</a>
-<a href = "https://github.com/Adriana-Giol/Pachete-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
-</a>
+
 <a href = "https://github.com/Adriana-Giol/Programare-Orientata-Obiect">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Orientata-Obiect&theme=jolly&hide_border" align = "center"/>
 </a>
