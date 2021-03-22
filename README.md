@@ -7,15 +7,12 @@
     <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" />
 </a>
 
-
-
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true" align = "center"/>
-</a>
-                 
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true" />
+</a>               
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=jolly&layout=default&card_width=250" align = "center"/>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=jolly&layout=default&card_width=250" />
 </a>
 
 # University
