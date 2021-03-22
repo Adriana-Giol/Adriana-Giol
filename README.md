@@ -1,5 +1,7 @@
-  <img src = "Logo/avatar.png" width = "auto" height="50px"" align = "left"/>### Hi there  👋
-
+<a>
+     <img src = "Logo/avatar.png" width = "auto" height="150px" align = "left"/> # Hi there, I'm Adriana!  👋
+</a>
+  
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
   <img src = "Logo/linkedin2.png" width = "auto" height="40px"/>
 </a>
