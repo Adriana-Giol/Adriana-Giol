@@ -9,10 +9,10 @@
 
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true&card_width=50px" />
 </a>               
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=8&count_private=true&theme=jolly&layout=default&card_width=250" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=8&count_private=true&theme=jolly&layout=default&card_width=250px" />
 </a>
 
 # University
