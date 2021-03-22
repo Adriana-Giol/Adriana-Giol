@@ -11,36 +11,36 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 
 # You can find me on:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
-    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" />
+    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
 <a href = "mailto:gioladriana@yahoo.com/">
-    <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center" />
+    <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
 
 # Technologies used:
 <a href = "https://visualstudio.microsoft.com/">
-    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" />
+    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Visual Studio" />
 </a>
 <a href = "https://dotnet.microsoft.com/download/dotnet-framework">
-    <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" />
+    <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
 </a>
 <a href = "https://developer.android.com/studio">
-    <img src = "Logo/android.png" alt="Android Studio" width = "auto" height="40px" align="center" />
+    <img src = "Logo/android.png" alt="Android Studio" width = "auto" height="40px" align="center" title="Android Studio" />
 </a>
 <a href = "https://www.eclipse.org/downloads/">
-    <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" />
+    <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
 </a>
 <a href = "/">
-    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" />
+    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" />
 </a>
 <a href = "https://www.anaconda.com/">
-    <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" />
+    <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
 <a href = "https://www.adobe.com/products/photoshop.html/">
-    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center" />
+    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center"title="Photoshop" />
 </a>
 <a href = "https://www.adobe.com/products/illustrator.html/">
-    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center" />
+    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Illustrator" />
 </a>
 
 
