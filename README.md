@@ -19,6 +19,9 @@
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=CTS_1088_laborator&theme=jolly&hide_border" align = "center"/>
 </a>
+<a href = "https://github.com/Adriana-Giol/Pachete-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
+</a>
 
 
 
