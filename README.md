@@ -4,6 +4,7 @@
   <img src = "Logo/linkedin2.png" width = "auto" height="40px"/>
 </a>
 
+![My profile visitors](https://visitor-badge.laobi.icu/badge?page_id=Adriana-Giol.Adriana-Giol)
 
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
@@ -11,7 +12,7 @@
 </a>
                     
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=jolly&layout=compact&card_width=270" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=jolly&layout=default&card_width=250" align = "center"/>
 </a>
 
 # University
