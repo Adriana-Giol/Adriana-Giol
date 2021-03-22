@@ -19,7 +19,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 
 # Technologies used:
 <a href = "https://visualstudio.microsoft.com/">
-    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Visual Studio" />
+    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
 </a>
 <a href = "https://dotnet.microsoft.com/download/dotnet-framework">
     <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
@@ -37,10 +37,10 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
 <a href = "https://www.adobe.com/products/photoshop.html/">
-    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center"title="Photoshop" />
+    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center"title="Adobe Photoshop" />
 </a>
 <a href = "https://www.adobe.com/products/illustrator.html/">
-    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Illustrator" />
+    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Adobe Illustrator" />
 </a>
 
 
