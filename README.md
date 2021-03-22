@@ -30,7 +30,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 <a href = "https://www.eclipse.org/downloads/">
     <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
 </a>
-<a  />
+<a href="https://jupyter.org/"/>
     <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
 </a> 
 
