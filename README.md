@@ -30,9 +30,9 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 <a href = "https://www.eclipse.org/downloads/">
     <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
 </a>
-<a href = "/">
-    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" />
-</a>
+<!--<a href = "/">
+    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
+</a> -->
 <a href = "https://www.anaconda.com/">
     <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
