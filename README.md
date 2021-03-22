@@ -14,7 +14,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
     <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" />
 </a>
-<a href = "gioladriana@yahoo.com/">
+<a href = "mailto:gioladriana@yahoo.com/">
     <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center" />
 </a>
 
