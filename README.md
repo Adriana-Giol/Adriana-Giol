@@ -1,5 +1,5 @@
 <a>
-     <img src = "Logo/avatar.png" width = "auto" height="190px" align = "left"/> 
+     <img src = "Logo/avatarp.png" width = "auto" height="190px" align = "left"/> 
 </a>
  
 # Hi there, I'm Adriana! 👋
@@ -39,7 +39,7 @@ I'm a Computer Science student, passionate about UX/UI Design, photography and e
 
 <p>
 <a>
-     <img src = "Logo/avatar2.png" width = "auto" height="190px" align = "right"/> 
+     <img src = "Logo/avatarpr.png" width = "auto" height="190px" align = "right"/> 
 </a>
 </p>
 
