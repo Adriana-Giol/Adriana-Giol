@@ -1,17 +1,19 @@
 <a>
-     <img src = "Logo/avatar.png" width = "auto" height="150px" align = "left"/> # Hi there, I'm Adriana!  👋
+     <img src = "Logo/avatar.png" width = "auto" height="140px" align = "left"/> 
 </a>
-  
+ 
+# Hi there, I'm Adriana! 👋
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
-  <img src = "Logo/linkedin2.png" width = "auto" height="40px"/>
+    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" />
 </a>
+
 
 
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true" align = "center"/>
 </a>
-                    
+                 
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&theme=jolly&layout=default&card_width=250" align = "center"/>
 </a>
