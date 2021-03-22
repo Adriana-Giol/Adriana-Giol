@@ -1,10 +1,16 @@
 <a>
-     <img src = "Logo/avatar.png" width = "auto" height="140px" align = "left"/> 
+     <img src = "Logo/avatar.png" width = "auto" height="200px" align = "left"/> 
 </a>
  
 # Hi there, I'm Adriana! 👋
-<!-- I'm a Computer Science student, passionate about UX/UI Design, photography and edit photos. Still at the beginning with the knowledge in programming, I'm a a curious person who likes to explore different programming languages. Until now, my favorite programming language is C (C++, C#). -->
+<a>
+I'm a Computer Science student, passionate about UX/UI Design, photography and edit photos. Still at the beginning with the knowledge in programming, I'm a a curious person who likes to explore different programming languages. Until now, my favorite programming language is C (C++, C#). Also, I like to create the interface of mobile applications.
+    <p>   :hibiscus: Fun fact: I am passionate about Korean culture.:hibiscus:</p>
+<!-- <a>
+<img src = "Logo/annyeong.gif" width = "auto" height="140px" align = "right"/> 
+</a>-->
 
+# You can find me on:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
     <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" />
 </a>
