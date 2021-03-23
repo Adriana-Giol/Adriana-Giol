@@ -25,7 +25,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
 </a>
 <a href = "https://developer.android.com/studio">
-    <img src = "Logo/android.png" alt="Android Studio" width = "auto" height="40px" align="center" title="Android Studio" />
+    <img src = "Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android SDK" />
 </a>
 <a href = "https://www.eclipse.org/downloads/">
     <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
