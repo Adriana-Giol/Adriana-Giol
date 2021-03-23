@@ -54,7 +54,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
-# Learning
+# Self - Learning
 
 # Personal Projects
 </a>
