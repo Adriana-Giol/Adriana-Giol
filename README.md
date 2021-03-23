@@ -17,7 +17,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
 
-# Technologies used:
+# Tools and Technologies used:
 <a href = "https://visualstudio.microsoft.com/">
     <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
 </a>
