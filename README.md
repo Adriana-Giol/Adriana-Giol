@@ -66,13 +66,17 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=CTS_1088_laborator&theme=jolly&hide_border" align = "center"/>
 </a>
-<a href = "https://github.com/Adriana-Giol/Programare-Orientata-Obiect">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Orientata-Obiect&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
 </a>
 </a>
 <a href = "https://github.com/Adriana-Giol/Structuri-de-Date">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
 </a>
+<a href = "https://github.com/Adriana-Giol/Programare-Orientata-Obiect">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Orientata-Obiect&theme=jolly&hide_border" align = "center"/>
+</a>
+
 
 <!--
 <a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
