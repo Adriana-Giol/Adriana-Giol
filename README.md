@@ -17,7 +17,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
 
-# Technologies used:
+# Tools and Technologies used:
 <a href = "https://visualstudio.microsoft.com/">
     <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
 </a>
@@ -25,7 +25,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
 </a>
 <a href = "https://developer.android.com/studio">
-    <img src = "Logo/android.png" alt="Android Studio" width = "auto" height="40px" align="center" title="Android Studio" />
+    <img src = "Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android SDK" />
 </a>
 <a href = "https://www.eclipse.org/downloads/">
     <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
@@ -54,7 +54,7 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
-# Learning
+# Self - Learning
 
 # Personal Projects
 </a>
@@ -69,6 +69,11 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
 <a href = "https://github.com/Adriana-Giol/Programare-Orientata-Obiect">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Orientata-Obiect&theme=jolly&hide_border" align = "center"/>
 </a>
+</a>
+<a href = "https://github.com/Adriana-Giol/Structuri-de-Date">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
+</a>
+
 <!--
 <a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
