@@ -3,7 +3,7 @@
 </a>
 
 # Hi there, I'm Adriana! 👋
-I'm a Computer Science student, passionate about UX/UI Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming language that I'm the most comfortable with is C (C++, C#). Also, I like to create the interface of mobile applications.
+I'm a Computer Science student, passionate about UX/UI Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming language that I'm the most comfortable with it is C (C++, C#). Also, I like to create the interface of mobile applications.
     <p>   :hibiscus: Fun fact: I am passionate about Korean culture.:hibiscus:</p>
 <!-- <a>
 <img src = "Logo/annyeong.gif" width = "auto" height="140px" align = "right"/> 
