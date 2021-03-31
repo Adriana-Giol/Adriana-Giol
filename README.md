@@ -44,7 +44,12 @@ I'm a Computer Science student, passionate about UX/UI Design, Photography and P
     <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Adobe Illustrator" />
 </a>
 
-
+# The evolution of my projects:
+💚 - Completed project
+💛 - Up-to-date project
+🧡 - Ongoing project
+❤️ - Plan to project
+🖤 - Dropped project
      
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
