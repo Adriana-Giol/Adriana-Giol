@@ -2,7 +2,7 @@
      <img src = "Logo/avatarp.png" width = "auto" height="190px" align = "left"/> 
 </a>
 
-# Hi there, I'm Adriana! 👋
+# Hi there, I'm Adriana! 👋🏻
 I'm a Computer Science student, passionate about Graphic Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming language that I'm the most comfortable with it is C (C++, C#). Also, I like to create the interface of mobile applications.
     <p>   :hibiscus: Fun fact: I am passionate about Korean culture.:hibiscus:</p>
 <!-- <a>
