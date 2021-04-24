@@ -98,4 +98,5 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
 https://github.com/anuraghazra/github-readme-stats#customization
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adriana-Giol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) = Trophy
 -->
