@@ -70,6 +70,14 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 <a href = "https://github.com/Adriana-Giol/Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
+<!--
+<a href = "https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Prelucrari-Statistice&theme=jolly&hide_border" align = "center"/>
+</a>
+-<a href = "https://github.com/Adriana-Giol/Hogwarts-Library">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Hogwarts-Library&theme=jolly&hide_border" align = "center"/>
+</a>
+-->
 
 # University
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
