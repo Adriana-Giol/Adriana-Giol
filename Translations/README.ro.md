@@ -1,5 +1,5 @@
 <a>
-     <img src = "Logo/avatarp.png" width = "auto" height="190px" align = "left"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarp.png" width = "auto" height="190px" align = "left"/> 
 </a>
 
 # Bună, sunt Adriana! 👋🏻
@@ -9,41 +9,41 @@
 <kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
 
-Sunt studentă la Facultatea de Cibernetică, Statistică și Informatocă Economică din București
+Sunt studentă la Facultatea de Cibernetică, Statistică și Informatocă Economică din București.
 
 # Ușor de contactat pe:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
-    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
 <a href = "mailto:gioladriana@yahoo.com/">
-    <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
 
 # Instrumente și Tehnologii folosite:
 <a href = "https://visualstudio.microsoft.com/">
-    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
 </a>
 <a href = "https://dotnet.microsoft.com/download/dotnet-framework">
-    <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
 </a>
 <a href = "https://developer.android.com/studio">
-    <img src = "Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android SDK" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android SDK" />
 </a>
 <a href = "https://www.eclipse.org/downloads/">
-    <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
 </a>
 <a href="https://jupyter.org/"/>
-    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
 </a> 
 
 <a href = "https://www.anaconda.com/">
-    <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
 <a href = "https://www.adobe.com/products/photoshop.html/">
-    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center"title="Adobe Photoshop" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center"title="Adobe Photoshop" />
 </a>
 <a href = "https://www.adobe.com/products/illustrator.html/">
-    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Adobe Illustrator" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Adobe Illustrator" />
 </a>
 
 # Evoluția proiectelor mele:
@@ -99,7 +99,7 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatocă Econo
 </a> -->
 
 <a>
-     <img src = "Logo/avatarpr.png" width = "auto" height="190px" align = "right"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="190px" align = "right"/> 
 </a>
 
 
