@@ -100,7 +100,7 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatocă Econo
 </a> -->
 
 <a>
-     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="190px" align = "right"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
 
