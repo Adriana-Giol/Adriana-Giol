@@ -103,7 +103,6 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
-
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
