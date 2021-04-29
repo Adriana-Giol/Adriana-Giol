@@ -1,5 +1,5 @@
 <a>
-     <img src = "Logo/avatarp.png" width = "auto" height="190px" align = "left"/> 
+     <img src = "Logo/avatarp.png" width = "auto" height="200px" align = "left"/> 
 </a>
 
 # Hi there, I'm Adriana! 👋🏻
