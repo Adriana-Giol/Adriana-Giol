@@ -6,7 +6,7 @@
 # Hi there, I'm Adriana! 👋🏻
 
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://user-images.githubusercontent.com/60271540/116548645-3687e500-a8fd-11eb-946e-9309066a2985.png" width="30">](Translations/README.ro.md)</kbd>
-<kbd>[<img title="English" alt="English" src="https://user-images.githubusercontent.com/60271540/116549222-e2c9cb80-a8fd-11eb-8162-8d5aab49336d.png" width="30">](Translations/README.en.md)</kbd>
+<kbd>[<img title="English" alt="English" src="https://user-images.githubusercontent.com/60271540/116549222-e2c9cb80-a8fd-11eb-8162-8d5aab49336d.png" width="30">](README.md)</kbd>
 
 <!--<kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
