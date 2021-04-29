@@ -106,7 +106,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </a> -->
 
 <a>
-     <img src = "Logo/avatarpr.png" width = "auto" height="190px" align = "right"/> 
+     <img src = "Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
 
