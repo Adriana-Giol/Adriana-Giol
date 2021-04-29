@@ -1,6 +1,7 @@
 <a>
-     <img src = "Logo/avatarp.png" width = "auto" height="240px" align = "left"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarp.png" width = "auto" height="240px" align = "left"/> 
 </a>
+
 
 # Hi there, I'm Adriana! 👋🏻
 
@@ -105,7 +106,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </a> -->
 
 <a>
-     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="190px" align = "right"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
 
