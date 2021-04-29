@@ -1,5 +1,5 @@
 <a>
-     <img src = "Logo/avatarp.png" width = "auto" height="210px" align = "left"/> 
+     <img src = "Logo/avatarp.png" width = "auto" height="220px" align = "left"/> 
 </a>
 
 # Hi there, I'm Adriana! 👋🏻
@@ -10,7 +10,7 @@
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
 -->
 
-I'm a Computer Science student, passionate about Graphic Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming language that I'm the most comfortable with it is C (C++, C#). Also, I like to create the interface of mobile applications.
+I'm a Computer Science student, passionate about Graphic Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming language that I'm the most comfortable with it is C (C++, C#). Also, I like to create the interface of mobile applications and Desktop applications.
 
 <!-- <a>
 <img src = "Logo/annyeong.gif" width = "auto" height="140px" align = "right"/> 
