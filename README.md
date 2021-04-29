@@ -16,6 +16,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 <!-- <a>
 <img src = "Logo/annyeong.gif" width = "auto" height="140px" align = "right"/> 
 </a>-->
+</br>
 
 # You can find me on:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
