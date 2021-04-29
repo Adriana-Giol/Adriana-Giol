@@ -49,9 +49,9 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 
 # Evoluția proiectelor mele:
 💚 - Proiect complet
-💛 - Proiect in curs de realizare (la zi)
-🧡 - Proiect in curs de realizare
-❤️ - Proiect in faza de idee
+💛 - Proiect în curs de realizare (la zi)
+🧡 - Proiect în curs de realizare
+❤️ - Proiect în fază de idee
 🖤 - Proiect abandonat
      
 # Statistici
