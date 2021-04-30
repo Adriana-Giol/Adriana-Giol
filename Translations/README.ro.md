@@ -1,5 +1,5 @@
 <a>
-     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarp.png" width = "auto" height="240px" align = "left"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/RoBavatar.png" width = "auto" height="240px" align = "left"/> 
 </a>
 
 # Bună, sunt Adriana! 👋🏻
@@ -100,7 +100,7 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 </a> -->
 
 <a>
-     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/AvatarRoBye.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
 <!--

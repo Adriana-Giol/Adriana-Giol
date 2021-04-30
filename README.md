@@ -109,7 +109,6 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
      <img src = "Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
-
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
