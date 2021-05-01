@@ -68,11 +68,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
-# Self - Learning
-</a>
-<a href = "https://github.com/Adriana-Giol/Baze-de-Date-Relationale">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
-</a>
+
 
 # Personal Projects
 </a>
@@ -87,11 +83,20 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Hogwarts-Library&theme=jolly&hide_border" align = "center"/>
 </a>
 -->
+# Self - Learning
+</a>
+<a href = "https://github.com/Adriana-Giol/Baze-de-Date-Relationale">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
+</a>
 
 # University
+#### Courses and Labs
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=CTS_1088_laborator&theme=jolly&hide_border" align = "center"/>
 </a>
+
+##### 5toGo Series
+
 <!--<a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
 </a>
