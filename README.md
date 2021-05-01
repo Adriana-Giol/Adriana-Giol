@@ -83,6 +83,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Hogwarts-Library&theme=jolly&hide_border" align = "center"/>
 </a>
 -->
+
 # Self - Learning
 </a>
 <a href = "https://github.com/Adriana-Giol/Baze-de-Date-Relationale">
