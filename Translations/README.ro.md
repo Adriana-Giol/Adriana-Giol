@@ -103,6 +103,19 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/AvatarRoBye.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
+</br>
+</br>
+</br>
+</br> 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+:octocat:[**Inspiratia Profilului de Github**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
+
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
