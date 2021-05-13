@@ -97,13 +97,25 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=CTS_1088_laborator&theme=jolly&hide_border" align = "center"/>
 </a>
 
---------------------------------------------------------
 
-#### 5toGo Series - Comming soon...
 
 <a>
      <img src = "Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
-</a>
+ </a>  
+
+</br>
+</br>
+</br>
+</br> 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+:octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
+
 
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
