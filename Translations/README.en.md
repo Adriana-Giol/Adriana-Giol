@@ -109,6 +109,18 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
+</br>
+</br>
+</br>
+</br> 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+:octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
 
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
