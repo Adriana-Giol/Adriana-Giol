@@ -69,16 +69,13 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </a>
 
 # Personal Projects
-### ⏰My new project | 👀Preview giol- *Coming soon* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
+### ⏰My new project | 👀Preview | *Coming soon* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/60271540/130851262-7634eecc-d0b7-44cd-aaea-98035113e616.png" width="230" />
   <img src="https://user-images.githubusercontent.com/60271540/130851956-d4c26a1f-5dd8-4488-b42b-ce7468ace4b1.png" width="230" />
-  <img src="https://user-images.githubusercontent.com/60271540/130853115-b2d59e36-210a-4410-ac57-3f1d901b4607.png" width="230"/>
-  <img src="https://user-images.githubusercontent.com/60271540/130850975-949068ac-1124-49fe-abbe-8e063c2f71fa.png" width="230" /> 
-
-  <img src="https://user-images.githubusercontent.com/60271540/130852306-a564ff0a-823d-4292-ae09-8159590642af.png" width="230" height="200"/>
+  <img src="https://user-images.githubusercontent.com/60271540/130853115-b2d59e36-210a-4410-ac57-3f1d901b4607.png" width="230"/> 
+  <img src="https://user-images.githubusercontent.com/60271540/130850975-949068ac-1124-49fe-abbe-8e063c2f71fa.png" width="230" />
   <img src="https://user-images.githubusercontent.com/60271540/130854037-53c7ef64-e2e4-4af8-adbb-18b724cb25fe.png" width="230" height"200"/>
-  <img src="https://user-images.githubusercontent.com/60271540/130854321-21c4ca44-7915-41c4-aa29-75c248eb59dc.png" width="230" height="200" />
   <img src="https://user-images.githubusercontent.com/60271540/130853485-a3609039-d9d9-4488-ab30-f2ceaa1e285d.png" width="230" height="200"/>
   
 </p>
@@ -91,8 +88,8 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 -->
 
 ### 💚Completed Projects
-<a href = "https://github.com/Adriana-Giol/Pachete-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
