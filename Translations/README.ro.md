@@ -62,25 +62,44 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
+# Proiecte Personale
+### ⏰Noul meu proiect - *In curand* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/60271540/116773072-d6f41b80-aa5b-11eb-91d3-f7e24b5d3604.png" width="230" />
+  <img src="https://user-images.githubusercontent.com/60271540/116773083-f2f7bd00-aa5b-11eb-870f-7731d808341b.png" width="230" /> 
+  <img src="https://user-images.githubusercontent.com/60271540/116773089-ff7c1580-aa5b-11eb-82c6-181a2854a51c.png" width="230"/>
+  <img src="https://user-images.githubusercontent.com/60271540/116773194-b1b3dd00-aa5c-11eb-8746-9f0569f6e886.png" width="230" />
+</p>
+
+--------------------------------------------------------
+<!--
+<a href = "https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Prelucrari-Statistice&theme=jolly&hide_border" align = "center"/>
+</a>
+-->
+
+### 💚Proiecte Finalizate
+<a href = "https://github.com/Adriana-Giol/Pachete-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<!--
+-<a href = "https://github.com/Adriana-Giol/Hogwarts-Library">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Hogwarts-Library&theme=jolly&hide_border" align = "center"/>
+</a>
+-->
+
 # Auto-învățare
+<a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
+</a>
+
 </a>
 <a href = "https://github.com/Adriana-Giol/Baze-de-Date-Relationale">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
 </a>
 
-# Proiecte Personale
-</a>
-<a href = "https://github.com/Adriana-Giol/Pachete-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Pachete-Software&theme=jolly&hide_border" align = "center"/>
-</a>
-<!--
-<a href = "https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Prelucrari-Statistice&theme=jolly&hide_border" align = "center"/>
-</a>
--<a href = "https://github.com/Adriana-Giol/Hogwarts-Library">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Hogwarts-Library&theme=jolly&hide_border" align = "center"/>
-</a>
--->
+
 
 # Facultate
 <a href = "https://github.com/Adriana-Giol/CTS_1088_laborator">
