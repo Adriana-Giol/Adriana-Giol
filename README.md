@@ -100,8 +100,8 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
-<a href = "https://github.com/Adriana-Giol/Baze-de-Date-Relationale">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Workspace-Baze-de-Date-Relationale">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
