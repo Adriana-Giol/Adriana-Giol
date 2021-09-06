@@ -99,8 +99,8 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 </a>
 
 </a>
-<a href = "https://github.com/Adriana-Giol/Baze-de-Date-Relationale">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Workspace-Baze-de-Date-Relationale">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
@@ -109,18 +109,10 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 <a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
-<!--<a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Dispozitive-si-Aplicatii-Mobile&theme=jolly&hide_border" align = "center"/>
 </a>
-<a href = "https://github.com/Adriana-Giol/Structuri-de-Date">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
-</a>
-<a href = "https://github.com/Adriana-Giol/Programare-Orientata-Obiect">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Orientata-Obiect&theme=jolly&hide_border" align = "center"/>
-</a>
-<a href = "https://github.com/Adriana-Giol/Programare-Aplicatii-Windows">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
-</a> -->
+
 
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/AvatarRoBye.png" width = "auto" height="240px" align = "right"/> 
