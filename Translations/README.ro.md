@@ -87,15 +87,14 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
-<!--
--<a href = "https://github.com/Adriana-Giol/Hogwarts-Library">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Hogwarts-Library&theme=jolly&hide_border" align = "center"/>
-</a>
--->
 
 # Auto-învățare
 <a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Workspace-Programare-Aplicatii-Windows">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
 </a>
 
 </a>
