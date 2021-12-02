@@ -55,7 +55,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 
 # Evolution of my projects:
 💚 - Completed project
-🧡 - Ongoing project
+💛 - Ongoing project
 ❤️ - Plan to project
 🖤 - Dropped project
      
