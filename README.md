@@ -82,25 +82,17 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </p>
 
 --------------------------------------------------------
-<!--
-<a href = "https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Prelucrari-Statistice&theme=jolly&hide_border" align = "center"/>
-</a>
--->
-
 ### 💚Completed Projects
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
+
 
 # Self-Learning
 <a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
-<a href = "https://github.com/Adriana-Giol/Workspace-Programare-Aplicatii-Windows">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
-</a>
 
 # University
 #### Courses and Labs
@@ -125,10 +117,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </br>
 </br>
 </br>
-
-
 :octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
-
 
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
