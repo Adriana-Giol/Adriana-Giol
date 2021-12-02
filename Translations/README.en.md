@@ -94,14 +94,9 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </a>
 
 
-
 # Self-Learning
 <a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
-</a>
-
-<a href = "https://github.com/Adriana-Giol/Workspace-Baze-de-Date-Relationale">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Baze-de-Date-Relationale&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
@@ -110,9 +105,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 <a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
-<a href = "https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Dispozitive-si-Aplicatii-Mobile&theme=jolly&hide_border" align = "center"/>
-</a>
+
 
 
 <a>
