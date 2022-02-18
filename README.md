@@ -104,7 +104,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </a>
 
 <a href = "https://github.com/Adriana-Giol/Laborator-Structuri-de-Date">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=/Laborator-Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
