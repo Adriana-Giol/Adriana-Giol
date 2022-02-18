@@ -82,9 +82,11 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 
 
 # Auto-învățare
+<!--
 <a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
+-->
 
 
 # Facultate
