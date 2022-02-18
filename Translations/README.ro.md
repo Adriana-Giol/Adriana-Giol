@@ -97,7 +97,7 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 </a>
 
 <a href = "https://github.com/Adriana-Giol/Laborator-Structuri-de-Date">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=/Laborator-Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
 </a>
 
 <a>
