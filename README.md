@@ -108,6 +108,11 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
 </a>
 
+<a href = "https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
+</a>
+
+
 
 
 <a>
