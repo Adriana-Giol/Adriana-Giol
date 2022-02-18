@@ -64,7 +64,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true&card_width=50px" />
 </a>               
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=15&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
 # Personal Projects
