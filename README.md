@@ -81,9 +81,12 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 </p>
 
 --------------------------------------------------------
-### 💚Completed Projects
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Prelucrari-Statistice&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
