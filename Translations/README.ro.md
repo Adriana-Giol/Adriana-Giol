@@ -75,9 +75,12 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 </p>
 
 --------------------------------------------------------
-### 💚Proiecte Finalizate
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Prelucrari-Statistice&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
