@@ -94,9 +94,11 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 
 
 # Self-Learning
+<!--
 <a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
+-->
 
 
 # University
