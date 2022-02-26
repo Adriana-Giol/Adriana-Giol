@@ -85,20 +85,14 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 
 
 # Auto-învățare
-<!--
-<a href = "https://github.com/Adriana-Giol/Workspace-Calitate-si-Testare-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Workspace-SoftbinatorLabs-Frontend">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-SoftbinatorLabs-Frontend&theme=jolly&hide_border" align = "center"/>
 </a>
--->
 
 
 # Facultate
-<a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
-</a>
-
-<a href = "https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Dispozitive-si-Aplicatii-Mobile&theme=jolly&hide_border" align = "center"/>
+<a href = "https://github.com/Adriana-Giol/Laborator-Bazele-Programarii">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Bazele-Programarii&theme=jolly&hide_border" align = "center"/>
 </a>
 
 <a href = "https://github.com/Adriana-Giol/Laborator-Structuri-de-Date">
@@ -107,6 +101,14 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 
 <a href = "https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Programare-Aplicatii-Windows&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Dispozitive-si-Aplicatii-Mobile&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
 <a>
