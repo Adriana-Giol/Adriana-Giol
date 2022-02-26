@@ -97,8 +97,6 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 
 
 # University
-#### Courses and Labs
-
 <a href = "https://github.com/Adriana-Giol/Laborator-Bazele-Programarii">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Bazele-Programarii&theme=jolly&hide_border" align = "center"/>
 </a>
