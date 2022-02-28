@@ -95,6 +95,10 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Bazele-Programarii&theme=jolly&hide_border" align = "center"/>
 </a>
 
+<a href = "https://github.com/Adriana-Giol/Laborator-Baze-de-Date">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Baze-de-Date&theme=jolly&hide_border" align = "center"/>
+</a>
+
 <a href = "https://github.com/Adriana-Giol/Laborator-Structuri-de-Date">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Structuri-de-Date&theme=jolly&hide_border" align = "center"/>
 </a>
