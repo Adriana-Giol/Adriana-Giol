@@ -10,7 +10,7 @@
 <!--<kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
 -->
-Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Economică din București. Sunt pasionată de Design Grafic, fotograafie și editare fotografică. Sunt o fire curioasă, căreia îi place să lucreze cu diferite limbaje de programare din diferite arii ale programării. Cel mai mult am lucrat folosind limbajul C (C++, C#). De asemenea, îmi place să creez interfețe vizuale pentru aplicații Desktop și Mobile.
+Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Economică din București. Sunt pasionată de Design Grafic, fotograafie și editare fotografică. Sunt o fire curioasă, căreia îi place să lucreze cu diferite limbaje de programare din diferite arii ale programării, îndeosebi imi place sa lucrez cu C++ si Java. De asemenea, îmi place să creez interfețe vizuale pentru aplicații Desktop și Mobile.
 
 # Ușor de contactat pe:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
