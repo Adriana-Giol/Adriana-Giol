@@ -11,11 +11,9 @@
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
 -->
 
-I'm a Computer Science student, passionate about Graphic Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming languages which I'm the most comfortable with are C++ and Java. Also, I like to create the interface of mobile applications and Desktop applications.
+Aspiring Android Developer, who wants to make the transition to multiplatform development, extremely fascinated about Flutter.
+I am knowledgeable in backend and object-oriented programming and I am in the process of learning frontend development. 
 
-<!-- <a>
-<img src = "Logo/annyeong.gif" width = "auto" height="140px" align = "right"/> 
-</a>-->
 </br>
 
 # You can find me on:
@@ -46,12 +44,6 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 <a href = "https://www.anaconda.com/">
     <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
-<a href = "https://www.adobe.com/products/photoshop.html/">
-    <img src = "Logo/photoshop.png" alt="Photoshop" width = "auto" height="40px" align="center"title="Adobe Photoshop" />
-</a>
-<a href = "https://www.adobe.com/products/illustrator.html/">
-    <img src = "Logo/Ai.png" alt="Illustrator" width = "auto" height="40px" align="center"title="Adobe Illustrator" />
-</a>
 
 # Evolution of my projects:
 💚 - Completed project
@@ -62,9 +54,10 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 # Stats
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true&card_width=50px" />
-</a>               
+</a>   
+
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=15&count_private=true&theme=jolly&layout=compact&card_width=250px" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=30&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
 # Personal Projects
@@ -80,7 +73,7 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
   
 </p>
 
---------------------------------------------------------
+<hr>
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
@@ -93,6 +86,10 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 # Self-Learning
 <a href = "https://github.com/Adriana-Giol/Workspace-SoftbinatorLabs-Frontend">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-SoftbinatorLabs-Frontend&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Workspace-FreeCodeCamp-Frontend">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-FreeCodeCamp-Frontend&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
@@ -126,15 +123,15 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
      <img src = "Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
  </a>  
 
-</br>
-</br>
-</br>
-</br> 
-</br>
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 :octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
 
