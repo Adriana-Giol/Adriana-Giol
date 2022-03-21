@@ -11,10 +11,10 @@
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
 -->
 
-Aspiring Android Developer, who wants to make the transition to multiplatform development, extremely fascinated about Flutter.
-I am knowledgeable in backend and object-oriented programming and I am in the process of learning frontend development. 
+**I'm a Computer Science student, aspiring Android Developer, who wants to make the transition to multi-platform development, extremely fascinated about Flutter.
+I am knowledgeable in backend and object-oriented programming and I am in the process of learning frontend development.**
 
-</br>
+<br>
 
 # You can find me on:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
