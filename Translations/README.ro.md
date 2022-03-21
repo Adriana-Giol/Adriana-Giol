@@ -63,6 +63,7 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 
 # Proiecte Personale
 ### ⏰Noul meu proiect | 👀Arunca o privire | *In curand* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/60271540/130851262-7634eecc-d0b7-44cd-aaea-98035113e616.png" width="230" />
   <img src="https://user-images.githubusercontent.com/60271540/130851956-d4c26a1f-5dd8-4488-b42b-ce7468ace4b1.png" width="230" />
@@ -71,10 +72,9 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
   <img src="https://user-images.githubusercontent.com/60271540/130850975-949068ac-1124-49fe-abbe-8e063c2f71fa.png" width="230" height="200"/>
   <img src="https://user-images.githubusercontent.com/60271540/130854037-53c7ef64-e2e4-4af8-adbb-18b724cb25fe.png" width="230" height="200"/>
   <img src="https://user-images.githubusercontent.com/60271540/130853485-a3609039-d9d9-4488-ab30-f2ceaa1e285d.png" width="230" height="200"/>
-  
 </p>
 
---------------------------------------------------------
+<hr>
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
@@ -87,6 +87,10 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 # Auto-învățare
 <a href = "https://github.com/Adriana-Giol/Workspace-SoftbinatorLabs-Frontend">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-SoftbinatorLabs-Frontend&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Workspace-FreeCodeCamp-Frontend">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=WWorkspace-FreeCodeCamp-Frontend&theme=jolly&hide_border" align = "center"/>
 </a>
 
 
@@ -115,23 +119,12 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/AvatarRoBye.png" width = "auto" height="240px" align = "right"/> 
 </a>
 
-</br>
-</br>
-</br>
-</br> 
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 :octocat:[**Inspiratia Profilului de Github**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
 
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
+ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
 https://github.com/anuraghazra/github-readme-stats#customization
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adriana-Giol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) = Trophy
 -->

@@ -14,10 +14,6 @@
 
 I'm a Computer Science student, passionate about Graphic Design, Photography and Photo editing. I'm a curious person who likes to explore different programming languages from different fields.The programming language that I'm the most comfortable with it is C (C++, C#). Also, I like to create the interface of mobile applications and Desktop applications.
 
-<!-- <a>
-<img src = "Logo/annyeong.gif" width = "auto" height="140px" align = "right"/> 
-</a>-->
-
 # You can find me on:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
@@ -76,11 +72,10 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
      
   <img src="https://user-images.githubusercontent.com/60271540/130850975-949068ac-1124-49fe-abbe-8e063c2f71fa.png" width="230" height="200"/>
   <img src="https://user-images.githubusercontent.com/60271540/130854037-53c7ef64-e2e4-4af8-adbb-18b724cb25fe.png" width="230" height="200"/>
-  <img src="https://user-images.githubusercontent.com/60271540/130853485-a3609039-d9d9-4488-ab30-f2ceaa1e285d.png" width="230" height="200"/>
-  
+  <img src="https://user-images.githubusercontent.com/60271540/130853485-a3609039-d9d9-4488-ab30-f2ceaa1e285d.png" width="230" height="200"/> 
 </p>
 
---------------------------------------------------------
+<hr>
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
@@ -93,6 +88,10 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
 # Self-Learning
 <a href = "https://github.com/Adriana-Giol/Workspace-SoftbinatorLabs-Frontend">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Workspace-SoftbinatorLabs-Frontend&theme=jolly&hide_border" align = "center"/>
+</a>
+
+<a href = "https://github.com/Adriana-Giol/Workspace-FreeCodeCamp-Frontend">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=WWorkspace-FreeCodeCamp-Frontend&theme=jolly&hide_border" align = "center"/>
 </a>
 
 # University
@@ -119,24 +118,13 @@ I'm a Computer Science student, passionate about Graphic Design, Photography and
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
  </a>  
 
-</br>
-</br>
-</br>
-</br> 
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 :octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
 
 
 <!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
+ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
 https://github.com/anuraghazra/github-readme-stats#customization
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adriana-Giol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) = Trophy
 -->
