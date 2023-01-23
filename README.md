@@ -60,6 +60,7 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=30&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
+<!--
 # Personal Projects
 ### ⏰My new project | 👀Preview | *Coming soon* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
 <p float="left">
@@ -116,6 +117,7 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
 
 <a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
+  -->
 </a>
 
 
