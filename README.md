@@ -135,12 +135,12 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
 <br>
 <br>
 
+<!--
 :octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
 
-<!--
 **Adriana-Giol/Adriana-Giol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
+ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -- Theme Statistici github
 https://github.com/anuraghazra/github-readme-stats#customization
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adriana-Giol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) = Trophy
 -->
