@@ -1,5 +1,5 @@
 <a>
-     <img src = "Logo/avatarp.png" width = "auto" height="240px" align = "left"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Hi.png" width = "auto" height="240px" align = "left"/> 
 </a>
 
 # Hi there, I'm Adriana! 👋🏻
@@ -18,31 +18,31 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
 
 # You can find me on:
 <a href = "https://www.linkedin.com/in/adriana-giol-4a4b3b154/">
-    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Linkedin-png.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
 <a href = "mailto:gioladriana@yahoo.com/">
-    <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
 
 # Tools and Technologies used:
 <a href = "https://visualstudio.microsoft.com/">
-    <img src = "Logo/visualstudio.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_VS.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
 </a>
 <a href = "https://dotnet.microsoft.com/download/dotnet-framework">
-    <img src = "Logo/dot.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_.NET.png" alt=".NET Framework" width = "auto" height="40px" align="center" title=".NET Framework" />
 </a>
 <a href = "https://developer.android.com/studio">
-    <img src = "Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android SDK" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_AndroidStudio.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android SDK" />
 </a>
 <a href = "https://www.eclipse.org/downloads/">
-    <img src = "Logo/eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Eclipse.png" alt="Eclipse" width = "auto" height="40px" align="center" title="Eclipse"/>
 </a>
 <a href="https://jupyter.org/"/>
-    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_JupyterLab.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
 </a> 
 
 <a href = "https://www.anaconda.com/">
-    <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
 
 # Evolution of my projects:
@@ -122,7 +122,7 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
 
 
 <a>
-     <img src = "Logo/avatarpr.png" width = "auto" height="240px" align = "right"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Bye.png" width = "auto" height="240px" align = "right"/> 
  </a>  
 
 <br>
