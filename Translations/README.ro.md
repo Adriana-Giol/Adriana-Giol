@@ -1,15 +1,17 @@
+
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/RoBavatar.png" width = "auto" height="240px" align = "left"/> 
 </a>
 
+<!--
 # Bună, sunt Adriana! 👋🏻
 
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://user-images.githubusercontent.com/60271540/116548645-3687e500-a8fd-11eb-946e-9309066a2985.png" width="30">](https://github.com/Adriana-Giol/Adriana-Giol/edit/main/Translations/README.ro.md)</kbd>
 <kbd>[<img title="English" alt="English" src="https://user-images.githubusercontent.com/60271540/116549222-e2c9cb80-a8fd-11eb-8162-8d5aab49336d.png" width="30">](https://github.com/Adriana-Giol/Adriana-Giol/blob/main/README.md)</kbd>
 
-<!--<kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
--->
+
 Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Economică din București. Sunt pasionată de Design Grafic, fotograafie și editare fotografică. Sunt o fire curioasă, căreia îi place să lucreze cu diferite limbaje de programare din diferite arii ale programării, îndeosebi imi place sa lucrez cu C++ si Java. De asemenea, îmi place să creez interfețe vizuale pentru aplicații Desktop și Mobile.
 
 # Ușor de contactat pe:
@@ -60,7 +62,7 @@ Sunt studentă la Facultatea de Cibernetică, Statistică și Informatică Econo
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
-
+<!--
 # Proiecte Personale
 ### ⏰Noul meu proiect | 👀Arunca o privire | *In curand* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
 
