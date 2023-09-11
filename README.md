@@ -83,13 +83,6 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
 -->
 
 # University
-<a href = "https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Dispozitive-si-Aplicatii-Mobile&theme=jolly&hide_border" align = "center"/>
-</a>
-
-<a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border"   align = "center"/> 
-</a>
 
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Bye.png" width = "auto" height="240px" align = "right"/> 
