@@ -72,17 +72,15 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
   <img src="https://user-images.githubusercontent.com/60271540/130853485-a3609039-d9d9-4488-ab30-f2ceaa1e285d.png" width="230" height="200"/>  
 </p>
 
--->
 # Personal Projects
-<a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
-</a>
 
-<!--
 # Self-Learning
 -->
 
 # University
+<a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
+</a>
 
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Bye.png" width = "auto" height="240px" align = "right"/> 
