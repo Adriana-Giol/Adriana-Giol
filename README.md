@@ -1,3 +1,4 @@
+<!--
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Hi.png" width = "auto" height="240px" align = "left"/> 
 </a>
@@ -9,7 +10,6 @@
 
 <!--<kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
--->
 
 **I'm a Computer Science student, aspiring Android Developer, who wants to make the transition to multi-platform development, extremely fascinated about Flutter.
 I am knowledgeable in backend and object-oriented programming and I am in the process of learning frontend development.**
@@ -75,7 +75,7 @@ I am knowledgeable in backend and object-oriented programming and I am in the pr
 # Personal Projects
 
 # Self-Learning
--->
+
 
 # University
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
