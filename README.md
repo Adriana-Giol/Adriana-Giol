@@ -51,13 +51,20 @@
 🖤 - Dropped project
      
 ## Stats
-<a href = "https://github.com/Adriana-Giol?tab=repositories">
+<!--
+<a href = "https://github.com/Adriana-Giol/github-readme-stats">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true&card_width=50px" />
-</a>   
+</a>     
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriana-Giol)](https://github.com/Adriana-Giol/github-readme-stats)
+-->
 
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=30&count_private=true&theme=jolly&layout=compact&card_width=250px" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
+
+
+
  <br>
  
 <!--
@@ -66,12 +73,10 @@
   <img src="https://user-images.githubusercontent.com/60271540/130851262-7634eecc-d0b7-44cd-aaea-98035113e616.png" width="230" />
   <img src="https://user-images.githubusercontent.com/60271540/130851956-d4c26a1f-5dd8-4488-b42b-ce7468ace4b1.png" width="230" />
   <img src="https://user-images.githubusercontent.com/60271540/130853115-b2d59e36-210a-4410-ac57-3f1d901b4607.png" width="230"/> 
-     
   <img src="https://user-images.githubusercontent.com/60271540/130850975-949068ac-1124-49fe-abbe-8e063c2f71fa.png" width="230" height="200"/>
   <img src="https://user-images.githubusercontent.com/60271540/130854037-53c7ef64-e2e4-4af8-adbb-18b724cb25fe.png" width="230" height="200"/>
   <img src="https://user-images.githubusercontent.com/60271540/130853485-a3609039-d9d9-4488-ab30-f2ceaa1e285d.png" width="230" height="200"/>  
 </p>
-
 # Personal Projects
 # Self-Learning
 -->
@@ -90,8 +95,6 @@
 <a href = "https://github.com/Adriana-Giol/Laborator-Calitate-si-Testare-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
-
-
 
 
 <a>
