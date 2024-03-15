@@ -1,29 +1,31 @@
-<!--
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Hi.png" width = "auto" height="240px" align = "left"/> 
 </a>
 
 # Hi there, I'm Adriana! 👋🏻
 
-
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://user-images.githubusercontent.com/60271540/116548645-3687e500-a8fd-11eb-946e-9309066a2985.png" width="30">](https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Translations/README.ro.md)</kbd>
 <kbd>[<img title="English" alt="English" src="https://user-images.githubusercontent.com/60271540/116549222-e2c9cb80-a8fd-11eb-8162-8d5aab49336d.png" width="30">](https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Translations/README.en.md)</kbd>
+
 <!--<kbd>[<img title="Française" alt="Française" src="https://user-images.githubusercontent.com/60271540/116549067-bc0b9500-a8fd-11eb-89a6-8fb32d308b43.png" width="30">]()</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://user-images.githubusercontent.com/60271540/116549395-16a4f100-a8fe-11eb-8316-6f08c963e339.png" width="30">]()</kbd>
 <br>
+-->
 
+## You can find me on:
 
-# You can find me on:
 <a href = "">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Linkedin-png.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
 <a href = "">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
- <br>
+ <hr>
 
 # Overview
+
 ## Tools and Technologies used:
+
 <a href = "https://visualstudio.microsoft.com/">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_VS.png" alt="Visual Studio" width = "auto" height="40px" align="center" title="Microsoft Visual Studio" />
 </a>
@@ -38,37 +40,35 @@
 </a>
 <a href="https://jupyter.org/"/>
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_JupyterLab.png" alt="Jupyter Lab" width = "auto" height="40px" align="center"title="Jupyter Lab" /> 
-</a> 
+</a>
 
 <a href = "https://www.anaconda.com/">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
 
 ## Evolution of my projects:
+
 💚 - Completed project
 💛 - Ongoing project
 ❤️ - Plan to project
 🖤 - Dropped project
-     
+
 ## Stats
+
 <!--
 <a href = "https://github.com/Adriana-Giol/github-readme-stats">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Adriana-Giol&count_private=true&show_icons=true&theme=jolly&include_all_commits=true&card_width=50px" />
-</a>     
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriana-Giol)](https://github.com/Adriana-Giol/github-readme-stats)
-
+-->
 
 <a href = "https://github.com/Adriana-Giol?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Giol&langs_count=5&count_private=true&theme=jolly&layout=compact&card_width=250px" />
 </a>
 
-
-
- <br>
- 
-<!--
-### ⏰My new project | 👀Preview | *Coming soon* - [Proiect - Prelucrari Statistice](https://github.com/Adriana-Giol/Proiect-Prelucrari-Statistice)
+ <!--
+### ⏰My new project | 👀Preview |
 <p float="left">
   <img src="https://user-images.githubusercontent.com/60271540/130851262-7634eecc-d0b7-44cd-aaea-98035113e616.png" width="230" />
   <img src="https://user-images.githubusercontent.com/60271540/130851956-d4c26a1f-5dd8-4488-b42b-ce7468ace4b1.png" width="230" />
@@ -80,14 +80,18 @@
 # Personal Projects
 # Self-Learning
 
-
+-->
+ <hr>
+ 
 # 🎓University - The Undergraduate Program
+
 ## Projects
 <a href = "https://github.com/Adriana-Giol/Proiect-Pachete-Software">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Proiect-Pachete-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
 ## Courses & Labs
+
 <a href = "https://github.com/Adriana-Giol/Laborator-Dispozitive-si-Aplicatii-Mobile">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Dispozitive-si-Aplicatii-Mobile&theme=jolly&hide_border" align = "center"/>
 </a>
@@ -96,12 +100,11 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Laborator-Calitate-si-Testare-Software&theme=jolly&hide_border" align = "center"/>
 </a>
 
-
 <a>
      <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Bye.png" width = "auto" height="240px" align = "right"/> 
 </a>  
  
- <br>
+ <hr>
 <!--
 :octocat:[**Github Profile Inspiration**](https://www.blogdeit.ro/cum-sa-iti-faci-o-pagina-de-github-personalizata/):octocat:
 
