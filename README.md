@@ -15,10 +15,10 @@
 💼 Currently, I am involved in projects related to information security in Web & Cloud. <br>
 
 ## 📫 You can find me on:
-<a href = "">
+<a href = "https://www.linkedin.com/in/adriana-giol/?locale=en_US">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Linkedin-png.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
-<a href = "">
+<a href = "mai:gioladriana@yahoo.com">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
  <hr>
