@@ -12,7 +12,7 @@
 <br>
 -->
 <b> 💻I am a Cybersecurity Master's student, dedicated to exploring the digital universe in a secure and innovative way. With a burning passion for Android Development, Cryptography, and OSINT (Open Source Intelligence), I strive to continuously learn and contribute to projects that emphasize cybersecurity and mobile app development.<br>
-💼 Currently, I am involved in projects related to information security in Web and Cloud. <br>
+💼 Currently, I am involved in projects related to information security in Web & Cloud. <br>
 
 ## 📫 You can find me on:
 If you are interested in collaborating or discussing anything related to my areas of interest, feel free to contact me!
