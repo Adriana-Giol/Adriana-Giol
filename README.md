@@ -1,5 +1,5 @@
 <a>
-     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Hi.png" width = "auto" height="240px" align = "left"/> 
+     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Avatar_ENG_Hi.png" width = "auto" height="220px" align = "left"/> 
 </a>
 
 <!--# <span style="text-decoration: none;"></span> -->
