@@ -18,7 +18,7 @@
 <a href = "https://www.linkedin.com/in/adriana-giol/?locale=en_US">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Linkedin-png.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
-<a href = "mai:gioladriana@yahoo.com">
+<a href = "mailto:gioladriana@yahoo.com?subject=[From Github]">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
  <hr>
