@@ -15,8 +15,6 @@
 💼 Currently, I am involved in projects related to information security in Web & Cloud. <br>
 
 ## 📫 You can find me on:
-If you are interested in collaborating or discussing anything related to my areas of interest, feel free to contact me!
-
 <a href = "">
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Contact_Linkedin-png.png" alt="Linkedin" width = "auto" height="40px" align="center" title="Linkedin"/>
 </a>
